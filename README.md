@@ -30,4 +30,9 @@ Stuart is a Senior Technical Leader / Senior Developer Advocate for Cisco Devnet
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore Secure DDoS Edge Protection with new Sandbox and Learning Labs](https://blogs.cisco.com/developer/secureedgeprotection01)
+- [SD-WAN Sandboxes Get a Refresh](https://blogs.cisco.com/developer/sdwansandboxrefresh01)
+- [Using NSO with pyATS Parsers to Check Operational State](https://blogs.cisco.com/developer/nsowithpyatsparsers01)
+- [The APIs We’re Experimenting with Over the Holidays](https://blogs.cisco.com/developer/holidayapis01)
+- [Pair Programming with AI: How Cisco Works with Tabnine](https://blogs.cisco.com/developer/tabninepairprogramming01)
 <!-- BLOG-POST-LIST:END --> 
