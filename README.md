@@ -1,4 +1,4 @@
-<h1 align="center">Stuart Clark</h1>
+<h1 align="center">Stuart Clark (aka BigEvilBeard)</h1>
 <h3 align="center">Senior Developer Advocate For Cisco DevNet</h3>
 
 
