@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Stuart Clark</h1>
-<h3 align="center">I am a Senior Developer Advocate For Cisco DevNet</h3>
+<h1 align="center">Stuart Clark</h1>
+<h3 align="center">Senior Developer Advocate For Cisco DevNet</h3>
+
+<h2 align="left">Stuart is a Senior Technical Leader / Senior Developer Advocate for Cisco Devnet. He has work for Cisco for over ten years designing, building and troubleshooting Cisco’s Security Cloud network with a strong focus on BGP, peering and coffee. 
+
+In the last few years his focus moved to network automation, spending more time on writing code for network automation at scale and moving networking towards a DevOps methodology.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigevilbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bigevilbeard" /> </p>
 
