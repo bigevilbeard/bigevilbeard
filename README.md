@@ -1,21 +1,19 @@
 <h1 align="center">Stuart Clark</h1>
 <h3 align="center">Senior Developer Advocate For Cisco DevNet</h3>
 
-<h2 align="left">Stuart is a Senior Technical Leader / Senior Developer Advocate for Cisco Devnet. He has work for Cisco for over ten years designing, building and troubleshooting Cisco’s Security Cloud network with a strong focus on BGP, peering and coffee. 
 
-In the last few years his focus moved to network automation, spending more time on writing code for network automation at scale and moving networking towards a DevOps methodology.</h2>
+![DimebagImage](./images/dimebag.jpeg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigevilbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bigevilbeard" /> </p>
+Stuart is a Senior Technical Leader / Senior Developer Advocate for Cisco Devnet. He has work for Cisco for over ten years designing, building and troubleshooting Cisco’s Security Cloud network with a strong focus on BGP, peering and coffee. In the last few years his focus moved to network automation, spending more time on writing code for network automation at scale and moving networking towards a DevOps methodology.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigevilbeard" alt="bigevilbeard" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bigevilbeard" target="blank"><img src="https://img.shields.io/twitter/follow/bigevilbeard?logo=twitter&style=for-the-badge" alt="bigevilbeard" /></a> </p>
 
-- 🔭 I’m currently working on **Network Automation**
+- 🔭 I’m currently working on **Network Automation, drinking coffee and playing guitar (not at the same time)**
 
 - 📝 I regularly write articles on [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/stuartclark)
 
-- 💬 Ask me about **Network Automation**
+- 💬 Ask me about **Network Automation / Coffee / Guitars / Metal / Beards**
 
 - 📫 How to reach me **stuaclar@cisco.com**
 
@@ -29,6 +27,4 @@ In the last few years his focus moved to network automation, spending more time 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigevilbeard&show_icons=true&locale=en&layout=compact" alt="bigevilbeard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigevilbeard&show_icons=true&locale=en" alt="bigevilbeard" /></p>
