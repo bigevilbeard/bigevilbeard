@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: bigevilbeard/blog-post-workflow@main
+        uses: bigevilbeard/workflow/blog-post-workflow@main
         with:
           feed_list: "https://blogs.cisco.com/author/stuartclark/feed"
