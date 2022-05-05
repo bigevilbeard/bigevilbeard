@@ -22,7 +22,7 @@ Stuart started his career as a hairdresser in 1990, and in 2008 he changed caree
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bigevilbeard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bigevilbeard" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/stuarteclark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stuarteclark/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stuarteclark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stuarteclark/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ciscodevnetchannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/ciscodevnetchannel" height="30" width="40" /></a>
 </p>
 
