@@ -2,7 +2,7 @@
 <h3 align="center">Senior Developer Advocate For Cisco DevNet</h3>
 
 
-![DimebagImage](./images/dimebag.jpeg)
+![ciscolive](./images/cisco_live_stage.png)
 
 Stuart Clark is a Developer Advocate, author for Cisco Press and a Cisco Certified DevNet Expert #20220005
 
@@ -18,6 +18,12 @@ Stuart started his career as a hairdresser in 1990, and in 2008 he changed caree
 - 💬 Ask me about **Network Automation / Coffee / Guitars / Metal / Beards**
 
 - 📫 How to reach me **stuaclar@cisco.com**
+
+
+
+- Order [Cisco Certified DevNet Professional DEVCOR 350-901 Official Cert Guide](https://www.ciscopress.com/store/cisco-certified-devnet-professional-devcor-350-901-9780137370443) 
+
+![book](./images/devcore_book.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
