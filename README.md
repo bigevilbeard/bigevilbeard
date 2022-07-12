@@ -38,9 +38,9 @@ Stuart started his career as a hairdresser in 1990, and in 2008 he changed caree
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Network Automation Should Shift Left Now](https://blogs.cisco.com/developer/networkautomationshouldshiftleft01)
 - [Get Connected with Connected Learning](https://blogs.cisco.com/developer/connectedlearning01)
 - [Meet Rapidly Scaling Cloud Data Center Requirements with SONiC](https://blogs.cisco.com/developer/sonicatcisco01)
 - [Observability vs. monitoring for DevOps](https://blogs.cisco.com/developer/observabilityvsmonitoringdevops01)
 - [Explore Secure DDoS Edge Protection with new Sandbox and Learning Labs](https://blogs.cisco.com/developer/secureedgeprotection01)
-- [SD-WAN Sandboxes Get a Refresh](https://blogs.cisco.com/developer/sdwansandboxrefresh01)
 <!-- BLOG-POST-LIST:END --> 
