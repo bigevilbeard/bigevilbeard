@@ -1,29 +1,32 @@
 <h1 align="center">Stuart Clark (aka BigEvilBeard)</h1>
-<h3 align="center">Senior Developer Advocate For Cisco DevNet</h3>
+<h3 align="center">Senior Developer Advocate</h3>
 
 
 ![ciscolive](./images/cisco_live_stage.png)
 
-Stuart Clark is a Developer Advocate, author for Cisco Press and a Cisco Certified DevNet Expert #20220005
+Stuart is a Senior Developer Advocate, public speaker, author and DevNet Expert #2022005.
 
-Stuart started his career as a hairdresser in 1990, and in 2008 he changed careers to become a network engineer. After cutting his teeth in network operations he moved to network projects and programs. After many years as a network engineer, Stuart became obsessed with network automation and joined Cisco DevNet as a Developer Advocate for network automation. Stuart contributed to the DevNet exams and was one of the SME teams that created, designed, and built the Cisco Certified DevNet Expert. Stuart has presented at over fifty external conferences and is a multi-time Cisco Live Distinguished Speaker covering topics on network automation and methodologies. Stuart lives in Lincoln England with his wife Natalie and their son Maddox, he plays guitar and rocks an impressive two-foot beard whilst drinking coffee.
+His started his career as a hairdresser in 1990, and in 2008 he changed careers to become a network engineer. Stuart became obsessed with network automation and became a developer advocate for network automation. Stuart contributed to the Cisco DevNet exams and was part of one of the SME team which created, designed, and built the Cisco Certified DevNet Expert. Stuart has presented at more than 50 external conferences in the last year and is a multi-time Cisco Live Distinguished Speaker, covering topics on programability and DevOps methodologies
+
+Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox. He plays guitar and rocks an impressive two-foot beard while drinking coffee. Stuart can be found on social media @bigevilbeard.
 
 
 <p align="left"> <a href="https://twitter.com/bigevilbeard" target="blank"><img src="https://img.shields.io/twitter/follow/bigevilbeard?logo=twitter&style=for-the-badge" alt="bigevilbeard" /></a> </p>
 
-- 🔭 I’m currently working on **Network Automation, drinking coffee and playing guitar (not at the same time)**
+- I’m currently working on **Network Automation, drinking coffee and playing guitar (not at the same time)**
 
-- 📝 I regularly write articles on [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/stuartclark)
+-  I regularly write articles on [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/stuartclark)
 
-- 💬 Ask me about **Network Automation / Coffee / Guitars / Metal / Beards**
+- Ask me about **Network Automation / Coffee / Guitars / Metal / Beards**
 
-- 📫 How to reach me **stuaclar@cisco.com**
+- How to reach me **https://bigevilbeard.github.io/**
 
+- Amazon profile [Stuart Clark](https://www.amazon.com/~/e/B0B9YQN9CF)
 
 
 - Order [Cisco Certified DevNet Professional DEVCOR 350-901 Official Cert Guide](https://www.ciscopress.com/store/cisco-certified-devnet-professional-devcor-350-901-9780137370443) 
 
-![book](./images/devcore_book.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
