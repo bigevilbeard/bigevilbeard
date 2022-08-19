@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
 - [New Learning Labs for NSO Service Development](https://blogs.cisco.com/developer/nsoservicedevelopmentlab01)
 - [Why Invest in Cisco SD-WAN Edge Deployments](https://blogs.cisco.com/developer/sdwanedge01)
 - [Bridge the Gap Between SD-WAN Technologies and Cloud-native Applications](https://blogs.cisco.com/developer/cloudnativesdwan01)
 - [Get Hands-on in the Cisco Crosswork Automation Sandbox](https://blogs.cisco.com/developer/crossworkautomationsandbox01)
-- [Why Your Network Automation Should Shift Left Now](https://blogs.cisco.com/developer/networkautomationshouldshiftleft01)
 <!-- BLOG-POST-LIST:END --> 
