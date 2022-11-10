@@ -41,7 +41,7 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Try the New 8000v Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
+- [Try the New 8000 Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
 - [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
 - [New Learning Labs for NSO Service Development](https://blogs.cisco.com/developer/nsoservicedevelopmentlab01)
 - [Why Invest in Cisco SD-WAN Edge Deployments](https://blogs.cisco.com/developer/sdwanedge01)
