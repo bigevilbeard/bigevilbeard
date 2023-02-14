@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Try the New 8000 Emulator Sandbox for SONiC](https://blogs.cisco.com/developer/8000vemulatorsandboxsonic01)
-- [First-Class Collaboration and APIs, Delivered by Postman](https://blogs.cisco.com/developer/apisdeliveredbypostman01)
-- [New Learning Labs for NSO Service Development](https://blogs.cisco.com/developer/nsoservicedevelopmentlab01)
-- [Why Invest in Cisco SD-WAN Edge Deployments](https://blogs.cisco.com/developer/sdwanedge01)
-- [Bridge the Gap Between SD-WAN Technologies and Cloud-native Applications](https://blogs.cisco.com/developer/cloudnativesdwan01)
+- [Fascinating laser research projects you wish you thought of &lpar;Part 1 of 9&rpar;: Cisco Optics Podcast Ep 35](https://feedpress.me/link/23532/15974118/fascinating-laser-research-projects-you-wish-you-thought-of-part-1-of-9-cisco-optics-podcast-ep-35)
+- [Experience the Power of Simplicity with these Cisco SD-WAN Upgrades](https://feedpress.me/link/23532/15973610/experience-the-power-of-simplicity-with-these-cisco-sd-wan-upgrades)
+- [4 Key takeaways from NRF 2023](https://feedpress.me/link/23532/15973397/key-takeaways-from-nrf2023)
+- [A love letter to planet Earth](https://feedpress.me/link/23532/15973373/a-love-letter-to-planet-earth)
+- [A Bridge of Help Connects to 170 Smiling Faces](https://feedpress.me/link/23532/15969255/a-bridge-of-help-connects-to-170-smiling-faces)
 <!-- BLOG-POST-LIST:END --> 
