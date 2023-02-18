@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Partner Practice Maturity to Grow Business](https://feedpress.me/link/23532/15981144/understanding-partner-practice-maturity-to-grow-business)
+- [How The Week is shifting the cultural norm on climate engagement](https://feedpress.me/link/23532/15980879/how-the-week-is-shifting-the-cultural-norm-on-climate-engagement)
+- [Getting to the Core of the Digital Divide with 5G Fixed Wireless Access](https://feedpress.me/link/23532/15980711/getting-to-the-core-of-the-digital-divide-with-5g-fixed-wireless-access)
+- [How To Prepare for a Security Engineering Interview: Be Yourself](https://feedpress.me/link/23532/15980712/how-to-prepare-for-a-security-engineering-interview-be-yourself)
 - [Network automation is being realized in different ways for different needs](https://feedpress.me/link/23532/15979847/network-automation-is-being-realized-in-different-ways-for-different-needs)
-- [Launch Your Cybersecurity Career with Cisco CyberOps Certifications | Part 2](https://feedpress.me/link/23532/15979678/launch-your-cybersecurity-career-with-cisco-cyberops-certifications-part-2)
-- [Cisco Named a Leader in Collaboration Tools for Education](https://feedpress.me/link/23532/15978840/cisco-named-a-leader-in-collaboration-tools-for-education)
-- [Cisco Live is about Customer Experience and we are ALL IN](https://feedpress.me/link/23532/15978810/cisco-live-is-about-customer-experience-and-we-are-all-in)
-- [Change systems — Change the world](https://feedpress.me/link/23532/15978788/change-systems-change-the-world)
 <!-- BLOG-POST-LIST:END --> 
