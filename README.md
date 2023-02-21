@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Industrial IoT takes center stage at Cisco Live EMEA](https://feedpress.me/link/23532/15984058/industrial-iot-takes-center-stage-at-cisco-live-emea)
+- [Cisco is Transitioning from FIPS 140-2 to FIPS 140-3](https://feedpress.me/link/23532/15983932/cisco-is-transitioning-from-fips-140-2-to-fips-140-3)
 - [Understanding Partner Practice Maturity to Grow Business](https://feedpress.me/link/23532/15981144/understanding-partner-practice-maturity-to-grow-business)
 - [How The Week is shifting the cultural norm on climate engagement](https://feedpress.me/link/23532/15980879/how-the-week-is-shifting-the-cultural-norm-on-climate-engagement)
 - [Getting to the Core of the Digital Divide with 5G Fixed Wireless Access](https://feedpress.me/link/23532/15980711/getting-to-the-core-of-the-digital-divide-with-5g-fixed-wireless-access)
-- [How To Prepare for a Security Engineering Interview: Be Yourself](https://feedpress.me/link/23532/15980712/how-to-prepare-for-a-security-engineering-interview-be-yourself)
-- [Network automation is being realized in different ways for different needs](https://feedpress.me/link/23532/15979847/network-automation-is-being-realized-in-different-ways-for-different-needs)
 <!-- BLOG-POST-LIST:END --> 
