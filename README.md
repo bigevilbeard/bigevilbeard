@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MWC Barcelona: What connections will you make in 2023?](https://feedpress.me/link/23532/15985934/mwc-barcelona-what-connections-will-you-make-in-2023)
+- [Conversations from Cisco Live To Observability and Beyond!](https://feedpress.me/link/23532/15985790/conversations-from-cisco-live-to-observability-and-beyond)
+- [Cisco is Home and We Are Family](https://feedpress.me/link/23532/15985560/cisco-is-home-and-we-are-family)
+- [Optimizing the Wealth Management Onboarding Process](https://feedpress.me/link/23532/15985561/optimizing-the-wealth-management-onboarding-process)
 - [Industrial IoT takes center stage at Cisco Live EMEA](https://feedpress.me/link/23532/15984058/industrial-iot-takes-center-stage-at-cisco-live-emea)
-- [Cisco is Transitioning from FIPS 140-2 to FIPS 140-3](https://feedpress.me/link/23532/15983932/cisco-is-transitioning-from-fips-140-2-to-fips-140-3)
-- [Understanding Partner Practice Maturity to Grow Business](https://feedpress.me/link/23532/15981144/understanding-partner-practice-maturity-to-grow-business)
-- [How The Week is shifting the cultural norm on climate engagement](https://feedpress.me/link/23532/15980879/how-the-week-is-shifting-the-cultural-norm-on-climate-engagement)
-- [Getting to the Core of the Digital Divide with 5G Fixed Wireless Access](https://feedpress.me/link/23532/15980711/getting-to-the-core-of-the-digital-divide-with-5g-fixed-wireless-access)
 <!-- BLOG-POST-LIST:END --> 
