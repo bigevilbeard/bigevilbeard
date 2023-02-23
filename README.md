@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [MWC Barcelona: What connections will you make in 2023?](https://feedpress.me/link/23532/15985934/mwc-barcelona-what-connections-will-you-make-in-2023)
-- [Conversations from Cisco Live To Observability and Beyond!](https://feedpress.me/link/23532/15985790/conversations-from-cisco-live-to-observability-and-beyond)
-- [Cisco is Home and We Are Family](https://feedpress.me/link/23532/15985560/cisco-is-home-and-we-are-family)
-- [Optimizing the Wealth Management Onboarding Process](https://feedpress.me/link/23532/15985561/optimizing-the-wealth-management-onboarding-process)
-- [Industrial IoT takes center stage at Cisco Live EMEA](https://feedpress.me/link/23532/15984058/industrial-iot-takes-center-stage-at-cisco-live-emea)
+- [Fascinating laser research projects you wish you thought of &lpar;Part 2 of 9&rpar;: Cisco Optics Podcast Ep 36](https://feedpress.me/link/23532/15987978/fascinating-laser-research-projects-you-wish-you-thought-of-part-2-of-9-cisco-optics-podcast-ep-36)
+- [Walking the Talk – Putting words into action](https://feedpress.me/link/23532/15987832/walking-the-talk-putting-words-into-action)
+- [Passive infrastructure monitoring frees up time and resources for active business transformation](https://feedpress.me/link/23532/15987774/passive-infrastructure-monitoring-frees-up-time-and-resources-for-active-business-transformation)
+- [Cisco IoT enables the global acceleration of offshore wind energy](https://feedpress.me/link/23532/15987700/cisco-iot-enables-the-global-acceleration-of-offshore-wind-energy)
+- [How to leverage Cisco Security Cloud today](https://feedpress.me/link/23532/15987433/how-to-leverage-cisco-security-cloud-today)
 <!-- BLOG-POST-LIST:END --> 
