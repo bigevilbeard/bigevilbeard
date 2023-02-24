@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fascinating laser research projects you wish you thought of &lpar;Part 2 of 9&rpar;: Cisco Optics Podcast Ep 36](https://feedpress.me/link/23532/15987978/fascinating-laser-research-projects-you-wish-you-thought-of-part-2-of-9-cisco-optics-podcast-ep-36)
-- [Walking the Talk – Putting words into action](https://feedpress.me/link/23532/15987832/walking-the-talk-putting-words-into-action)
-- [Passive infrastructure monitoring frees up time and resources for active business transformation](https://feedpress.me/link/23532/15987774/passive-infrastructure-monitoring-frees-up-time-and-resources-for-active-business-transformation)
-- [Cisco IoT enables the global acceleration of offshore wind energy](https://feedpress.me/link/23532/15987700/cisco-iot-enables-the-global-acceleration-of-offshore-wind-energy)
-- [How to leverage Cisco Security Cloud today](https://feedpress.me/link/23532/15987433/how-to-leverage-cisco-security-cloud-today)
+- [The Rise and Rise of DevOps Adoption](https://feedpress.me/link/23532/15989938/the-rise-and-rise-of-devops-adoption)
+- [Building Network Automation Skill is Alive and Well](https://feedpress.me/link/23532/15989967/automationskills01)
+- [OT/IoT Security: 3 Key Takeaways from Gartner Peer Insight’s Survey](https://feedpress.me/link/23532/15989515/ot-iot-security-3-key-takeaways-from-gartner-peer-insights-survey)
+- [Four Reasons Why MSPs Need Cisco Defense Orchestrator](https://feedpress.me/link/23532/15989503/four-reasons-why-msps-need-cisco-defense-orchestrator)
+- [Project READ: Virtually connecting kids to literacy and learning](https://feedpress.me/link/23532/15989271/project-read-virtually-connecting-kids-to-literacy-and-learning)
 <!-- BLOG-POST-LIST:END --> 
