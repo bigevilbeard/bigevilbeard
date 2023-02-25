@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Rise and Rise of DevOps Adoption](https://feedpress.me/link/23532/15989938/the-rise-and-rise-of-devops-adoption)
-- [Building Network Automation Skill is Alive and Well](https://feedpress.me/link/23532/15989967/automationskills01)
-- [OT/IoT Security: 3 Key Takeaways from Gartner Peer Insight’s Survey](https://feedpress.me/link/23532/15989515/ot-iot-security-3-key-takeaways-from-gartner-peer-insights-survey)
-- [Four Reasons Why MSPs Need Cisco Defense Orchestrator](https://feedpress.me/link/23532/15989503/four-reasons-why-msps-need-cisco-defense-orchestrator)
-- [Project READ: Virtually connecting kids to literacy and learning](https://feedpress.me/link/23532/15989271/project-read-virtually-connecting-kids-to-literacy-and-learning)
+- [Behind the Scenes of Cisco Exam Security](https://feedpress.me/link/23532/15991930/cheating-certification-exam-dumps-and-proxy-testing-behind-the-scenes-of-cisco-exam-security)
+- [Accelerating Our Security Cloud Vision: Cisco Announces Intent to Acquire Valtix](https://feedpress.me/link/23532/15991852/cisco-announces-corporate-news-2-24-23)
+- [Driving Mainstream IoT Adoption at Scale](https://feedpress.me/link/23532/15991723/driving-mainstream-iot-adoption-at-scale)
+- [Cisco Paves The Way For The Future Of Wi-Fi At MWC Barcelona 2023](https://feedpress.me/link/23532/15991528/cisco-paves-the-way-for-the-future-of-wi-fi-at-mwc-barcelona-2023)
+- [Connecting Candidates and Employers](https://feedpress.me/link/23532/15991529/connecting-candidates-and-employers)
 <!-- BLOG-POST-LIST:END --> 
