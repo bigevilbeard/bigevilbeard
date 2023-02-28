@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Driving Global Expansion in Mobile IoT](https://feedpress.me/link/23532/15994395/cisco-driving-global-expansion-in-mobile-iot)
-- [Cisco and Intel Collaborate to Drive Private 5G Innovation and Global IoT Adoption](https://feedpress.me/link/23532/15994385/cisco-and-intel-collaborate-to-drive-private-5g-technology-innovation-and-global-iot-adoption-to-connect-everything-everywhere)
-- [Behind the Scenes of Cisco Exam Security](https://feedpress.me/link/23532/15991930/cheating-certification-exam-dumps-and-proxy-testing-behind-the-scenes-of-cisco-exam-security)
-- [Accelerating Our Security Cloud Vision: Cisco Announces Intent to Acquire Valtix](https://feedpress.me/link/23532/15991852/cisco-announces-corporate-news-2-24-23)
-- [Driving Mainstream IoT Adoption at Scale](https://feedpress.me/link/23532/15991723/driving-mainstream-iot-adoption-at-scale)
+- [Cisco Virtual Mining Summit 2023](https://feedpress.me/link/23532/15996011/cisco-virtual-mining-summit-2023)
+- [Co-selling: It’s a BIG Deal!](https://feedpress.me/link/23532/15995568/co-selling-its-a-big-deal)
+- [Key Priorities for State Governments in 2023](https://feedpress.me/link/23532/15995530/key-priorities-for-state-governments-in-2023)
+- [Greater Monitoring and Visibility for your Security Success](https://feedpress.me/link/23532/15995435/greater-monitoring-and-visibility-for-your-security-success)
+- [Next Generation Leadership: How Sponsorship Can Help Power an Inclusive Future for Black Cisconians](https://feedpress.me/link/23532/15995231/next-generation-leadership-how-sponsorship-can-help-power-an-inclusive-future-for-black-cisconians)
 <!-- BLOG-POST-LIST:END --> 
