@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco’s African American Partner Community Drives Impact Through Innovation](https://feedpress.me/link/23532/15998093/ciscos-african-american-partner-community-drives-impact-through-innovation)
+- [Cisco Drives Simplified Operations and Energy Efficiency with Intersight and UCS X-Series](https://feedpress.me/link/23532/15997889/cisco-drives-simplified-operations-and-energy-efficiency-with-intersight-and-ucs-x-series)
+- [Digital inclusion: How Cisco is bringing connectivity to communities](https://feedpress.me/link/23532/15997709/digital-inclusion-how-cisco-is-bringing-connectivity-to-communities)
+- [Driving Tech Circularity Forward: a View of Europe’s Plans in 2023](https://feedpress.me/link/23532/15997683/technology-circularity-europe-plans)
 - [Cisco Virtual Mining Summit 2023](https://feedpress.me/link/23532/15996011/cisco-virtual-mining-summit-2023)
-- [Co-selling: It’s a BIG Deal!](https://feedpress.me/link/23532/15995568/co-selling-its-a-big-deal)
-- [Key Priorities for State Governments in 2023](https://feedpress.me/link/23532/15995530/key-priorities-for-state-governments-in-2023)
-- [Greater Monitoring and Visibility for your Security Success](https://feedpress.me/link/23532/15995435/greater-monitoring-and-visibility-for-your-security-success)
-- [Next Generation Leadership: How Sponsorship Can Help Power an Inclusive Future for Black Cisconians](https://feedpress.me/link/23532/15995231/next-generation-leadership-how-sponsorship-can-help-power-an-inclusive-future-for-black-cisconians)
 <!-- BLOG-POST-LIST:END --> 
