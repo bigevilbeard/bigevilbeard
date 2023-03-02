@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco’s African American Partner Community Drives Impact Through Innovation](https://feedpress.me/link/23532/15998093/ciscos-african-american-partner-community-drives-impact-through-innovation)
-- [Cisco Drives Simplified Operations and Energy Efficiency with Intersight and UCS X-Series](https://feedpress.me/link/23532/15997889/cisco-drives-simplified-operations-and-energy-efficiency-with-intersight-and-ucs-x-series)
-- [Digital inclusion: How Cisco is bringing connectivity to communities](https://feedpress.me/link/23532/15997709/digital-inclusion-how-cisco-is-bringing-connectivity-to-communities)
-- [Driving Tech Circularity Forward: a View of Europe’s Plans in 2023](https://feedpress.me/link/23532/15997683/technology-circularity-europe-plans)
-- [Cisco Virtual Mining Summit 2023](https://feedpress.me/link/23532/15996011/cisco-virtual-mining-summit-2023)
+- [Authenticity Paves the Way to an Inclusive Future at Women in Cybersecurity Conference](https://feedpress.me/link/23532/15999852/authenticity-paves-the-way-to-an-inclusive-future-at-women-in-cybersecurity-conference)
+- [Connecting industrial devices anywhere with Cisco’s new modules for LoRaWAN and 450MHz LTE](https://feedpress.me/link/23532/15999748/connecting-industrial-devices-anywhere-with-ciscos-new-modules-for-lorawan-and-450mhz-lte)
+- [Designing and Deploying Cisco AI Spoofing Detection – Part 1](https://feedpress.me/link/23532/15999718/designing-and-deploying-cisco-ai-spoofing-detection-part-1)
+- [The Enterprise Agreement 3.0 is Generally Available for Eligible Cisco Partners](https://feedpress.me/link/23532/15999670/the-enterprise-agreement-3-0-is-generally-available-for-eligible-cisco-partners)
+- [Building more sustainable and resilient communities: An interview with Cisco’s Chief Sustainability Officer](https://feedpress.me/link/23532/15999416/building-more-sustainable-and-resilient-communities-an-interview-with-ciscos-chief-sustainability-officer)
 <!-- BLOG-POST-LIST:END --> 
