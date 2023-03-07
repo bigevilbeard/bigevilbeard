@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning as a Lifestyle](https://feedpress.me/link/23532/16004020/learning-as-a-lifestyle)
-- [Wi-Fi 6E, Something Old, Something New, Something Borrowed, Something Blue – Part 1](https://feedpress.me/link/23532/16003780/wi-fi-6e-something-old-something-new-something-borrowed-something-blue-part-1)
-- [Transform Sales Partnering with Cisco Managed Service Providers](https://feedpress.me/link/23532/16001794/transform-sales-partnering-with-cisco-managed-service-providers)
-- [National Cybersecurity Strategy: Public-Private Partnership Required to Successfully Meet 21st Century Challenges](https://feedpress.me/link/23532/16001720/national-cybersecurity-strategy-public-private-partnership-required-to-successfully-meet-21st-century-challenges)
-- [Cisco Nexus Dashboard Helps Accelerate Operations, Improve Efficiency and Enable Self-Service with ServiceNow Solutions](https://feedpress.me/link/23532/16001522/accelerate-operations-improve-efficiency-enable-self-service-with-cisco-nexus-dashboard-servicenow-solutions)
+- [Invest in Your Future With Free Cisco Certification Training on Cisco U.](https://feedpress.me/link/23532/16007094/invest-in-your-future-with-free-cisco-certification-training-on-cisco-u)
+- [Cisco @ OFC – Bold Innovations to Power Your Future-Ready Network](https://feedpress.me/link/23532/16007053/cisco-ofc-bold-innovations-to-power-your-future-ready-network)
+- [How Cisco Partners Can Drive Sustainability](https://feedpress.me/link/23532/16006819/how-cisco-partners-can-drive-sustainability)
+- [Enhance your Webex User Experience with Cisco SD-WAN](https://feedpress.me/link/23532/16006816/enhance-your-webex-user-experience-with-cisco-sd-wan)
+- [ACI Segmentation and Migrations made easier with Endpoint Security Groups &lpar;ESG&rpar;](https://feedpress.me/link/23532/16006716/aci-segmentation-and-migrations-made-easier-with-endpoint-security-groups-esg)
 <!-- BLOG-POST-LIST:END --> 
