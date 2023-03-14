@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco SD-WAN: The Right Tool for Keeping Fleets Moving](https://feedpress.me/link/23532/16021402/cisco-sd-wan-the-right-tool-for-keeping-fleets-moving)
 - [Dig In to NetDevOps at Automation Developer Days, May 9-11](https://feedpress.me/link/23532/16015335/devdaysstockholm01)
 - [Gain Deeper Insights into your Cisco SD-WAN Deployments with NWPI](https://feedpress.me/link/23532/16014989/gain-deeper-insights-into-your-cisco-sd-wan-deployments-with-nwpi)
 - [Celebrate Pi Day With Cisco Learning &lpar;We’re Saving You a Slice&rpar;](https://feedpress.me/link/23532/16013568/celebrate-pi-day-with-cisco-learning-we-are-saving-you-a-slice)
 - [Top Ten Benefits of Upgrading from DCNM to NDFC SAN](https://feedpress.me/link/23532/16013567/top-ten-benefits-of-upgrading-from-dcnm-to-ndfc-san)
-- [Fascinating laser research projects you wish you thought of &lpar;Part 3 of 9&rpar;: Cisco Optics Podcast Ep 37](https://feedpress.me/link/23532/16013412/fascinating-laser-research-projects-you-wish-you-thought-of-part-3-of-9-cisco-optics-podcast-ep-37)
 <!-- BLOG-POST-LIST:END --> 
