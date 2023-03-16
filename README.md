@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Catalyst IR8300 Rugged Series Router wins 2023 “Industrial IoT Innovation of the Year”](https://feedpress.me/link/23532/16024556/cisco-catalyst-ir8300-rugged-series-router-wins-2023-industrial-iot-innovation-of-the-year)
+- [Software-defined Infrastructure: Cisco and NTT Co-Deliver a Solution for a Complex Problem](https://feedpress.me/link/23532/16024485/software-defined-infrastructure-cisco-and-ntt-co-deliver-a-solution-for-a-complex-problem)
+- [The Site Reliability and Software Engineering Soft Skills That Matter Most](https://feedpress.me/link/23532/16024298/the-site-reliability-and-software-engineering-soft-skills-that-matter-most)
 - [City of Fort Worth fast-tracks free Wi-Fi access in under-connected areas](https://feedpress.me/link/23532/16023027/city-of-fort-worth-fast-tracks-free-wi-fi-access-in-under-connected-areas)
 - [How Cisco employees are involved with community impact](https://feedpress.me/link/23532/16022820/how-cisco-employees-are-involved-with-community-impact)
-- [Can you hire your way to security resilience?](https://feedpress.me/link/23532/16022769/can-you-hire-your-way-to-security-resilience)
-- [Cisco SD-WAN: The Right Tool for Keeping Fleets Moving](https://feedpress.me/link/23532/16021402/cisco-sd-wan-the-right-tool-for-keeping-fleets-moving)
-- [Dig In to NetDevOps at Automation Developer Days, May 9-11](https://feedpress.me/link/23532/16015335/devdaysstockholm01)
 <!-- BLOG-POST-LIST:END --> 
