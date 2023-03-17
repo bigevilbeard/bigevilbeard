@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Catalyst IR8300 Rugged Series Router wins 2023 “Industrial IoT Innovation of the Year”](https://feedpress.me/link/23532/16024556/cisco-catalyst-ir8300-rugged-series-router-wins-2023-industrial-iot-innovation-of-the-year)
-- [Software-defined Infrastructure: Cisco and NTT Co-Deliver a Solution for a Complex Problem](https://feedpress.me/link/23532/16024485/software-defined-infrastructure-cisco-and-ntt-co-deliver-a-solution-for-a-complex-problem)
-- [The Site Reliability and Software Engineering Soft Skills That Matter Most](https://feedpress.me/link/23532/16024298/the-site-reliability-and-software-engineering-soft-skills-that-matter-most)
-- [City of Fort Worth fast-tracks free Wi-Fi access in under-connected areas](https://feedpress.me/link/23532/16023027/city-of-fort-worth-fast-tracks-free-wi-fi-access-in-under-connected-areas)
-- [How Cisco employees are involved with community impact](https://feedpress.me/link/23532/16022820/how-cisco-employees-are-involved-with-community-impact)
+- [Cisco Modeling Labs 2.5: Now with Resource Limiting](https://feedpress.me/link/23532/16026728/cisco-modeling-labs-2-5-now-with-resource-limiting)
+- [Designing and Deploying Cisco AI Spoofing Detection – Part 2](https://feedpress.me/link/23532/16026448/designing-and-deploying-cisco-ai-spoofing-detection-part-2)
+- [Collecting Telemetry for Custom Dashboarding – Customer Use Cases](https://feedpress.me/link/23532/16026482/customdashboarding01)
+- [Cisco Connects and Protects Your Customers](https://feedpress.me/link/23532/16026294/cisco-connects-and-protects-your-customers)
+- [Everything you ever wanted to know about Cisco ISE, but were afraid to ask](https://feedpress.me/link/23532/16026066/everything-you-ever-wanted-to-know-about-cisco-ise-but-were-afraid-to-ask)
 <!-- BLOG-POST-LIST:END --> 
