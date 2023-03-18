@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Tips for Maintenance During Your Certification Journey](https://feedpress.me/link/23532/16028326/six-tips-for-maintenance-during-your-certification-journey)
+- [Standing With Ukraine—One Year Later](https://feedpress.me/link/23532/16027773/standing-with-ukraine-one-year-later)
 - [Cisco Modeling Labs 2.5: Now with Resource Limiting](https://feedpress.me/link/23532/16026728/cisco-modeling-labs-2-5-now-with-resource-limiting)
 - [Designing and Deploying Cisco AI Spoofing Detection – Part 2](https://feedpress.me/link/23532/16026448/designing-and-deploying-cisco-ai-spoofing-detection-part-2)
 - [Collecting Telemetry for Custom Dashboarding – Customer Use Cases](https://feedpress.me/link/23532/16026482/customdashboarding01)
-- [Cisco Connects and Protects Your Customers](https://feedpress.me/link/23532/16026294/cisco-connects-and-protects-your-customers)
-- [Everything you ever wanted to know about Cisco ISE, but were afraid to ask](https://feedpress.me/link/23532/16026066/everything-you-ever-wanted-to-know-about-cisco-ise-but-were-afraid-to-ask)
 <!-- BLOG-POST-LIST:END --> 
