@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reality Check on Cybersecurity: 9% of Companies in Europe are Ready to Defend Against Cyber Threats](https://feedpress.me/link/23532/16033062/cybersecurity-europe-companies-not-ready-to-defend-against-cyber-threats)
-- [Regulatory Harmonization in Cyber Incident Reporting: Best Idea for Security?](https://feedpress.me/link/23532/16032506/regulatory-harmonization-in-cyber-incident-reporting)
-- [How can Cisco help with staffing shortages?](https://feedpress.me/link/23532/16032089/cisco-helps-with-staffing-shortages)
-- [Managed Services are the Key to Success for Partners in Asia Pacific](https://feedpress.me/link/23532/16031745/managed-services-are-the-key-to-success-for-partners-in-asia-pacific)
-- [Trickle Up: Leveraging technology to build economic opportunity and drive inclusion for women in extreme poverty](https://feedpress.me/link/23532/16031526/trickle-up-leveraging-technology-to-build-economic-opportunity-and-drive-inclusion-for-women-in-extreme-poverty)
+- [Predictive Analytics in Oil and Gas – 3 Types](https://feedpress.me/link/23532/16034035/predictive-analytics-in-oil-and-gas-3-types)
+- [Cisco Business Architectures and the Role of the Partner](https://feedpress.me/link/23532/16033646/cisco-business-architectures-and-the-role-of-the-partner)
+- [Fascinating laser research projects you wish you thought of &lpar;Part 4 of 9&rpar;: Cisco Optics Podcast Ep 38](https://feedpress.me/link/23532/16033637/fascinating-laser-research-projects-you-wish-you-thought-of-part-4-of-9-cisco-optics-podcast-ep-38)
+- [Sustainability 101: Greenhouse gas emissions, global warming, and climate change](https://feedpress.me/link/23532/16033517/sustainability-101-greenhouse-gas-emissions-global-warming-and-climate-change)
+- [Hybrid Work in the New Atlanta Office](https://feedpress.me/link/23532/16033460/hybrid-work-atl-office)
 <!-- BLOG-POST-LIST:END --> 
