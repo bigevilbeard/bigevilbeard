@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Path to Unified SASE with Cisco SD-WAN and Cisco+ Secure Connect](https://feedpress.me/link/23532/16037882/the-path-to-unified-sase-with-cisco-sd-wan-and-cisco-secure-connect)
+- [Training the skilled workforce of the future](https://feedpress.me/link/23532/16037550/training-the-skilled-workforce-of-the-future)
+- [One Seamless, United Platform](https://feedpress.me/link/23532/16037242/one-seamless-united-platform)
+- [Cisco Storage Networking is 20 Years Young](https://feedpress.me/link/23532/16037150/cisco-storage-networking-is-20-years-young)
 - [Keeping Your Apps and Data Available With HyperFlex](https://feedpress.me/link/23532/16035963/keeping-your-apps-and-data-available-with-hyperflex)
-- [Catalyst Wireless Enterprise Agreements now support Cisco DNA Essentials!](https://feedpress.me/link/23532/16035526/catalyst-wireless-enterprise-agreements-now-support-cisco-dna-essentials)
-- [Balancing Growth and Budget in 2023](https://feedpress.me/link/23532/16035527/balancing-growth-and-budget-in-2023)
-- [Sharing career opportunities and advice with the women of Bennett College](https://feedpress.me/link/23532/16035385/sharing-career-opportunities-and-advice-with-the-women-of-bennett-college)
-- [Predictive Analytics in Oil and Gas – 3 Types](https://feedpress.me/link/23532/16034035/predictive-analytics-in-oil-and-gas-3-types)
 <!-- BLOG-POST-LIST:END --> 
