@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Failing Forward – What We Learned at Cisco from a “Failed” Digital Orchestration Pilot](https://feedpress.me/link/23532/16043667/failing-forward-what-we-learned-at-cisco-from-a-failed-digital-orchestration-pilot)
+- [EI Towers Launches New IP Contribution Network with Cisco for Serie A](https://feedpress.me/link/23532/16042935/ei-towers-launches-new-ip-contribution-network-with-cisco-for-serie-a)
 - [The Path to Unified SASE with Cisco SD-WAN and Cisco+ Secure Connect](https://feedpress.me/link/23532/16037882/the-path-to-unified-sase-with-cisco-sd-wan-and-cisco-secure-connect)
 - [Training the skilled workforce of the future](https://feedpress.me/link/23532/16037550/training-the-skilled-workforce-of-the-future)
 - [One Seamless, United Platform](https://feedpress.me/link/23532/16037242/one-seamless-united-platform)
-- [Cisco Storage Networking is 20 Years Young](https://feedpress.me/link/23532/16037150/cisco-storage-networking-is-20-years-young)
-- [Keeping Your Apps and Data Available With HyperFlex](https://feedpress.me/link/23532/16035963/keeping-your-apps-and-data-available-with-hyperflex)
 <!-- BLOG-POST-LIST:END --> 
