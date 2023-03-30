@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ops Meets Dev on the Daily Standup Show](https://feedpress.me/link/23532/16045990/dailystandup01)
-- [Recent Innovations in Cisco ACI – AlgoSec Solution for Network Security Policy Management](https://feedpress.me/link/23532/16045272/recent-innovations-in-cisco-aci-algosec-solution-for-network-security-policy-management)
-- [QDOBA serves up improved customer experiences](https://feedpress.me/link/23532/16045215/qdoba-serves-up-improved-customer-experiences)
-- [Shaping Futures by Giving Back Through STEM Mentorship](https://feedpress.me/link/23532/16045078/shaping-futures-by-giving-back-through-stem-mentorship)
-- [Cisco Business Critical Services improves customer experience and reduces costs for OTE Group with automation strategy](https://feedpress.me/link/23532/16045079/cisco-business-critical-services-improves-customer-experience-and-reduces-costs-for-ote-group-with-automation-strategy)
+- [3 Steps to Better IT Planning and Ensuring Technology Remains a Priority](https://feedpress.me/link/23532/16047623/3-steps-to-better-it-planning-and-ensuring-technology-remains-a-priority)
+- [Connect, Collaborate, and Learn with Cisco Learning Network](https://feedpress.me/link/23532/16047610/connect-collaborate-and-learn-with-cisco-learning-network)
+- [An award-winning program for the Age of the Partner](https://feedpress.me/link/23532/16047611/an-award-winning-program-for-the-age-of-the-partner)
+- [Cisco Announces its Intent to Acquire Cloud Security Software Company Lightspin](https://feedpress.me/link/23532/16047503/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
+- [Cisco Secure is simplifying SaaS security for managed service providers](https://feedpress.me/link/23532/16047428/cisco-secure-is-simplifying-saas-security-for-managed-service-providers)
 <!-- BLOG-POST-LIST:END --> 
