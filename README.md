@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Participates in VP Harris’ Digital Coalition Roundtable in Africa](https://feedpress.me/link/23532/16052860/vp-harris-digital-coalition-roundtable)
 - [Hybrid, Smart, and Sustainable: Experience Game-Changing Results for You and Your Customers](https://feedpress.me/link/23532/16051879/hybrid-smart-and-sustainable-experience-game-changing-results-for-you-and-your-customers)
 - [Good Friends Say Goodbye as Prime Infrastructure Sunsets](https://feedpress.me/link/23532/16051880/good-friends-say-goodbye-as-prime-infrastructure-sunsets)
 - [Akvo: The next generation of data collection for sustainable development](https://feedpress.me/link/23532/16051754/akvo-the-next-generation-of-data-collection-for-sustainable-development)
 - [Cisco Partner Experience &lpar;PX&rpar; Cloud is Now Available Worldwide](https://feedpress.me/link/23532/16050104/cisco-partner-experience-px-cloud-is-now-available-worldwide)
-- [Playing with the Earth: One woman’s journey to becoming a climate scientist](https://feedpress.me/link/23532/16049976/playing-with-the-earth-one-womans-journey-to-becoming-a-climate-scientist)
 <!-- BLOG-POST-LIST:END --> 
