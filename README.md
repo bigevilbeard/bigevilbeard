@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Participates in VP Harris’ Digital Coalition Roundtable in Africa](https://feedpress.me/link/23532/16052860/vp-harris-digital-coalition-roundtable)
-- [Hybrid, Smart, and Sustainable: Experience Game-Changing Results for You and Your Customers](https://feedpress.me/link/23532/16051879/hybrid-smart-and-sustainable-experience-game-changing-results-for-you-and-your-customers)
-- [Good Friends Say Goodbye as Prime Infrastructure Sunsets](https://feedpress.me/link/23532/16051880/good-friends-say-goodbye-as-prime-infrastructure-sunsets)
-- [Akvo: The next generation of data collection for sustainable development](https://feedpress.me/link/23532/16051754/akvo-the-next-generation-of-data-collection-for-sustainable-development)
-- [Cisco Partner Experience &lpar;PX&rpar; Cloud is Now Available Worldwide](https://feedpress.me/link/23532/16050104/cisco-partner-experience-px-cloud-is-now-available-worldwide)
+- [Black Belt Academy: learn, apply, succeed at providing customer value!](https://feedpress.me/link/23532/16054914/black-belt-academy-learn-apply-succeed-at-providing-customer-value)
+- [Driving Business Transformation with Virtualized Cisco DNA Center](https://feedpress.me/link/23532/16054915/driving-business-transformation-with-virtualized-cisco-dna-center)
+- [Five essentials for software centric manufacturing](https://feedpress.me/link/23532/16054900/five-essentials-for-software-centric-manufacturing)
+- [Forward Thinking – Critical Infrastructure Outcomes In 2023](https://feedpress.me/link/23532/16054842/forward-thinking-critical-infrastructure-outcomes-in-2023)
+- [What National Volunteer Month means to Cisco Habitat Champions](https://feedpress.me/link/23532/16054776/what-national-volunteer-month-means-to-cisco-habitat-champions)
 <!-- BLOG-POST-LIST:END --> 
