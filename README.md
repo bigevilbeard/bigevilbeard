@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Black Belt Academy: learn, apply, succeed at providing customer value!](https://feedpress.me/link/23532/16054914/black-belt-academy-learn-apply-succeed-at-providing-customer-value)
-- [Driving Business Transformation with Virtualized Cisco DNA Center](https://feedpress.me/link/23532/16054915/driving-business-transformation-with-virtualized-cisco-dna-center)
-- [Five essentials for software centric manufacturing](https://feedpress.me/link/23532/16054900/five-essentials-for-software-centric-manufacturing)
-- [Forward Thinking – Critical Infrastructure Outcomes In 2023](https://feedpress.me/link/23532/16054842/forward-thinking-critical-infrastructure-outcomes-in-2023)
-- [What National Volunteer Month means to Cisco Habitat Champions](https://feedpress.me/link/23532/16054776/what-national-volunteer-month-means-to-cisco-habitat-champions)
+- [Inside the Circle of CCIE Certification Success](https://feedpress.me/link/23532/16056713/inside-the-circle-of-ccie-certification-success)
+- [Unifying Experiences Starts By Unifying SASE](https://feedpress.me/link/23532/16056474/unifying-experiences-starts-by-unifying-sase)
+- [From Earth to the Sun: The diversity of a career in STEM](https://feedpress.me/link/23532/16056292/from-earth-to-the-sun-the-diversity-of-a-career-in-stem)
+- [How to Reach the Full Promise of SSE](https://feedpress.me/link/23532/16056249/how-to-reach-the-full-promise-of-sse-2)
+- [Americas FSI Digital Commentary: Executive Briefing Ideas to Grow Your Business](https://feedpress.me/link/23532/16056250/executive-briefing-ideas-to-grow-your-business)
 <!-- BLOG-POST-LIST:END --> 
