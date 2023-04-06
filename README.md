@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Circle of CCIE Certification Success](https://feedpress.me/link/23532/16056713/inside-the-circle-of-ccie-certification-success)
-- [Unifying Experiences Starts By Unifying SASE](https://feedpress.me/link/23532/16056474/unifying-experiences-starts-by-unifying-sase)
-- [From Earth to the Sun: The diversity of a career in STEM](https://feedpress.me/link/23532/16056292/from-earth-to-the-sun-the-diversity-of-a-career-in-stem)
-- [How to Reach the Full Promise of SSE](https://feedpress.me/link/23532/16056249/how-to-reach-the-full-promise-of-sse-2)
-- [Americas FSI Digital Commentary: Executive Briefing Ideas to Grow Your Business](https://feedpress.me/link/23532/16056250/executive-briefing-ideas-to-grow-your-business)
+- [Fascinating laser research projects you wish you thought of &lpar;Part 5 of 9&rpar;: Cisco Optics Podcast Ep 39](https://feedpress.me/link/23532/16058692/fascinating-laser-research-projects-you-wish-you-thought-of-part-5-of-9-cisco-optics-podcast-ep-39)
+- [Cisco Catalyst IE3100 Rugged Series switches: Big benefits, small footprint](https://feedpress.me/link/23532/16058538/cisco-catalyst-ie3100-rugged-series-switches-big-benefits-small-footprint)
+- [Spend Less Time Managing the Network, More Time Innovating with the Network](https://feedpress.me/link/23532/16058350/spend-less-time-managing-the-network-more-time-innovating-with-the-network)
+- [Municipal broadband and why communities should be interested](https://feedpress.me/link/23532/16058297/municipal-broadband-and-why-communities-should-be-interested)
+- [Let’s Just Go! How I Was Shaped by My Cuban-American Heritage](https://feedpress.me/link/23532/16058133/lets-just-go-how-i-was-shaped-by-my-cuban-american-heritage)
 <!-- BLOG-POST-LIST:END --> 
