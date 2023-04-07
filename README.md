@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fascinating laser research projects you wish you thought of &lpar;Part 5 of 9&rpar;: Cisco Optics Podcast Ep 39](https://feedpress.me/link/23532/16058692/fascinating-laser-research-projects-you-wish-you-thought-of-part-5-of-9-cisco-optics-podcast-ep-39)
-- [Cisco Catalyst IE3100 Rugged Series switches: Big benefits, small footprint](https://feedpress.me/link/23532/16058538/cisco-catalyst-ie3100-rugged-series-switches-big-benefits-small-footprint)
-- [Spend Less Time Managing the Network, More Time Innovating with the Network](https://feedpress.me/link/23532/16058350/spend-less-time-managing-the-network-more-time-innovating-with-the-network)
-- [Municipal broadband and why communities should be interested](https://feedpress.me/link/23532/16058297/municipal-broadband-and-why-communities-should-be-interested)
-- [Let’s Just Go! How I Was Shaped by My Cuban-American Heritage](https://feedpress.me/link/23532/16058133/lets-just-go-how-i-was-shaped-by-my-cuban-american-heritage)
+- [Two decades of IoT innovation for a future of possibilities](https://feedpress.me/link/23532/16060485/two-decades-of-iot-innovation-for-a-future-of-possibilities)
+- [Deploying the Wi-Fi Network at Cisco Live EMEA 2023](https://feedpress.me/link/23532/16060427/deploying-the-wi-fi-network-at-cisco-live-emea-2023)
+- [Learn, Network, and Reunite at Cisco Live 2023 Las Vegas](https://feedpress.me/link/23532/16060428/learn-network-and-reunite-at-cisco-live-las-vegas)
+- [Do Not Buy a New Access Point… Yet](https://feedpress.me/link/23532/16060387/do-not-buy-a-new-access-point-yet)
+- [Endpoint security: A critical component for resilience](https://feedpress.me/link/23532/16060364/endpoint-security-a-critical-component-for-resilience)
 <!-- BLOG-POST-LIST:END --> 
