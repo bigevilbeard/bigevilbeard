@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Cisco Umbrella APIs for Managed Service Providers](https://feedpress.me/link/23532/16066131/the-new-cisco-umbrella-apis-for-managed-service-providers)
+- [How computer vision is making the transport sector more efficient and safe](https://feedpress.me/link/23532/16066120/how-computer-vision-is-making-the-transport-sector-more-efficient-and-safe)
+- [2023 #WeAreCisco #LoveWhereYouWork Contest](https://feedpress.me/link/23532/16065884/2023-wearecisco-lovewhereyouwork-contest)
+- [Cisco at HIMSS 2023](https://feedpress.me/link/23532/16065885/cisco-at-himss-2023)
 - [Something New: AP Discovery Methods for 6GHz Wi-Fi – Part 2](https://feedpress.me/link/23532/16064575/something-new-ap-discovery-methods-for-6ghz-wi-fi-part-2)
-- [Why sustainability is important to members of Cisco’s Green Team](https://feedpress.me/link/23532/16064454/why-sustainability-is-important-to-members-of-ciscos-green-team)
-- [How to Pick the Right Wireless Technology for your Agency](https://feedpress.me/link/23532/16064455/how-to-pick-the-right-wireless-technology-for-your-agency)
-- [Networking Demystified: The Modern Networking Stack](https://feedpress.me/link/23532/16061825/networking-demystified-the-modern-networking-stack)
-- [Two decades of IoT innovation for a future of possibilities](https://feedpress.me/link/23532/16060485/two-decades-of-iot-innovation-for-a-future-of-possibilities)
 <!-- BLOG-POST-LIST:END --> 
