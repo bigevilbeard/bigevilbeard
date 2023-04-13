@@ -41,9 +41,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The New Cisco Umbrella APIs for Managed Service Providers](https://feedpress.me/link/23532/16066131/the-new-cisco-umbrella-apis-for-managed-service-providers)
-- [How computer vision is making the transport sector more efficient and safe](https://feedpress.me/link/23532/16066120/how-computer-vision-is-making-the-transport-sector-more-efficient-and-safe)
-- [2023 #WeAreCisco #LoveWhereYouWork Contest](https://feedpress.me/link/23532/16065884/2023-wearecisco-lovewhereyouwork-contest)
-- [Cisco at HIMSS 2023](https://feedpress.me/link/23532/16065885/cisco-at-himss-2023)
-- [Something New: AP Discovery Methods for 6GHz Wi-Fi – Part 2](https://feedpress.me/link/23532/16064575/something-new-ap-discovery-methods-for-6ghz-wi-fi-part-2)
+- [Doubling Down on Cisco Validated](https://feedpress.me/link/23532/16068331/doubling-down-on-cisco-validated)
+- [Gwinnett County DOT sets the network foundation for intelligent transportation](https://feedpress.me/link/23532/16068273/gwinnett-county-dot-sets-the-network-foundation-for-intelligent-transportation)
+- [Cisco at NAB Show 2023: Powering Innovation and Next-Level Experiences with Intel](https://feedpress.me/link/23532/16068201/cisco-at-nab-show-2023-powering-innovation-and-next-level-experiences-with-intel)
+- [Work on Climate: Creating a talent ecosystem to address the urgent need for climate solutions](https://feedpress.me/link/23532/16068032/work-on-climate-creating-a-talent-ecosystem-to-address-the-urgent-need-for-climate-solutions)
+- [Thriving as a Writer: Reflections on a Non-technical Job in Tech](https://feedpress.me/link/23532/16067998/thriving-as-a-writer-reflections-on-a-non-technical-job-in-tech)
 <!-- BLOG-POST-LIST:END --> 
