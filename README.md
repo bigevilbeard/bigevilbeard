@@ -23,8 +23,9 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 
 - Amazon Author profile [Stuart Clark](https://www.amazon.com/~/e/B0B9YQN9CF)
 
+- Order [Cisco Certified DevNet Associate Handbook](https://www.amazon.com/dp/B0CTR59YF5)
+- Order [Cisco Certified DevNet Professional DEVCOR 350-901 Official Cert Guide](https://www.ciscopress.com/store/cisco-certified-devnet-professional-devcor-350-901-9780137370443)
 
-- Order [Cisco Certified DevNet Professional DEVCOR 350-901 Official Cert Guide](https://www.ciscopress.com/store/cisco-certified-devnet-professional-devcor-350-901-9780137370443) 
 
 
 
@@ -42,4 +43,6 @@ Stuart lives in Lincoln, England, with his wife, Natalie, and their son, Maddox.
 # Twitch Show "TheBigDevTheory'
 
 I host a weekly show called The Big Dev Theory is a livestream broadcast every week on the AWS Twitch channel twitch/aws. Our livestreams are designed to help developers learn about the advantages of our partner technologies and AWS.
+
+https://community.aws/livestreams/the-big-dev-theory
 
