@@ -2,7 +2,7 @@
 <h3 align="center">Senior Developer Advocate</h3>
 
 
-![ciscolive](./images/cisco_live_stage.png)
+![ciscolive](./images/IMG_8029.jpeg)
 
 Stuart is a Senior Developer Advocate, public speaker, author and DevNet Expert #2022005
  
