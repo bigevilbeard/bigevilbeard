@@ -2,7 +2,7 @@
 <h3 align="center">Senior Developer Advocate</h3>
 
 
-![ciscolive](./images/IMG_8029.jpeg)
+![tedx](./images/IMG_8623.jpeg)
 
 Stuart is a Senior Developer Advocate |   DevOps Pioneer | TEDx Speaker | International Keynote Speaker | Technical Author | DevNet Expert #2022005
  
