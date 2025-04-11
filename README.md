@@ -11,9 +11,7 @@ Stuart is a sought-after speaker, TEDx presenter, and champion for sustainable s
 
 <p align="left"> <a href="https://twitter.com/bigevilbeard" target="blank"><img src="https://img.shields.io/twitter/follow/bigevilbeard?logo=twitter&style=for-the-badge" alt="bigevilbeard" /></a> </p>
 
-- I’m currently working on **AWS Developer Community Partnerships, drinking coffee and playing guitar (not at the same time)**
-
--  Read my old Network Automation blogs [https://blogs.cisco.com/author/stuartclark](https://blogs.cisco.com/author/stuartclark)
+- **Senior Developer Advocate Spotify Backstage, drinking coffee and playing guitar (not at the same time)**
 
 - Ask me about **Code / Coffee / Guitars / Beards**
 
@@ -38,9 +36,4 @@ Stuart is a sought-after speaker, TEDx presenter, and champion for sustainable s
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 
-# Twitch Show "TheBigDevTheory'
-
-I host a weekly show called The Big Dev Theory is a livestream broadcast every week on the AWS Twitch channel twitch/aws. Our livestreams are designed to help developers learn about the advantages of our partner technologies and AWS.
-
-https://community.aws/livestreams/the-big-dev-theory
 
