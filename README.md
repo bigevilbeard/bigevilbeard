@@ -16,6 +16,7 @@ Stuart is a sought-after speaker, TEDx presenter, and champion for sustainable s
 - Ask me about **Code / Coffee / Guitars / Beards**
 
 - How to reach me **https://bigevilbeard.github.io/**
+- Blog Posts by bigevilbeard on [Medium](https://medium.com/@bigevilbeard)
 
 - Amazon Author profile [Stuart Clark](https://www.amazon.com/~/e/B0B9YQN9CF)
 
