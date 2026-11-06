@@ -20,10 +20,8 @@
 
   ### What I'm up to
 
-  - 🎤 Speaking about Backstage, developer experience, and sustainable software at conferences worldwide
   - 📚 Author of [Cisco Certified DevNet Associate Handbook](https://www.amazon.com/dp/B0CTR59YF5) [CCNA Automation Handbook: Automating Networks Using Cisco Platforms (200-901 CCNAAUTO) v1.1)](https://amzn.eu/d/0fTXpiji )and [DevNet Professional DEVCOR 350-901 Official Cert
   Guide](https://www.ciscopress.com/store/cisco-certified-devnet-professional-devcor-350-901-9780137370443)
-  - 🎥 [YouTube talks & demos](https://www.youtube.com/watch?v=oVQHfc-FcY8&list=PLDqi6CuDzubykc0fhevEDzCHJnIfyPVAO)
 
   ---
 
