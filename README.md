@@ -13,7 +13,6 @@
 
   Senior Technology Leader | DevOps Pioneer | TEDx Speaker | International Keynote Speaker | Technical Author | CCIE# 70062, DEVNET# 20220005
 
-  I work on [Backstage](https://backstage.io), Spotify's open-source developer portal framework. Previously I spent years deep in network automation, and became obsessed with making infrastructure programmable. These days I'm focused on developer experience, sustainable software, and the impact of AI on the climate.
 
   When I'm not on stage or writing code, I'm drinking coffee and playing guitar — not at the same time.
 
